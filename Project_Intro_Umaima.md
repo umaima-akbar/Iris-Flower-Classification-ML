@@ -55,7 +55,7 @@ __________________________________
 
 ## 🎓 Internship Info
 
-This project is part of my **1-month remote internship** with [Data Zenix Solutions]([https://www.linkedin.com/company/datazenixsolutions/]), where I’m building and sharing hands-on Data Science projects.
+This project is part of my **1-month remote internship** with [Data Zenix Solutions](https://www.datazenix.site/), where I’m building and sharing hands-on Data Science projects.
 
 __________________________________
 
