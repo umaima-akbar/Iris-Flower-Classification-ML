@@ -64,6 +64,6 @@ __________________________________
 **Umaima Akbar**  
 BS Data Science Student | Python & ML Newbie   
 • [GitHub](https://github.com/umaima-akbar) 
-• [LinkedIn](https://www.linkedin.com/in/umaima-akbar-a70bb1375/)
+• [LinkedIn](https://www.linkedin.com/in/umaima-akbar-46b194355/)
 
 __________________________________
